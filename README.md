@@ -30,13 +30,13 @@ Fetching data via Promises
 
 ```
 /title/?address=techzouk.com
-``
+```
 
 Fetching data via Callbacks
 
 ```
 /cb/title/?address=techzouk.com
-``
+```
 
 ## Authors
 
