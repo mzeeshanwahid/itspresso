@@ -1,0 +1,27 @@
+{
+  "name": "itspresso",
+  "version": "1.0.0",
+  "description": "Simple Tool that sends back HTML as a response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzeeshanwahid/itspresso.git"
+  },
+  "author": "Muhammad Zeeshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzeeshanwahid/itspresso/issues"
+  },
+  "homepage": "https://github.com/mzeeshanwahid/itspresso#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "node-html-parser": "^1.1.16",
+    "path": "^0.12.7"
+  }
+}
